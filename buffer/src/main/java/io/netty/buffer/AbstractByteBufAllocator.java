@@ -22,7 +22,7 @@ import io.netty.util.internal.PlatformDependent;
 import io.netty.util.internal.StringUtil;
 
 /**
- * Skeletal {@link ByteBufAllocator} implementation to extend.
+ * Skeletal {@link ByteBufAllocator} implementation to extend.00
  */
 public abstract class AbstractByteBufAllocator implements ByteBufAllocator {
     static final int DEFAULT_INITIAL_CAPACITY = 256;
